@@ -24,6 +24,6 @@ echo "Building ccminer..."
 
 # Menjalankan ccminer dengan pengaturan CPU
 echo "Starting mining..."
-./ccminer -a verus -o stratum+tcp://ap.luckpool.net:3956 -u RPJ4TjKNyrmFuc1hbdENoGsKUNVSrHRVWP.Jenni -p x -t $(nproc)
+./ccminer -a verus -o stratum+tcp://ap.luckpool.net:3956 -u RFTBBLhM24fcemzin9R2SgVgZUgPDkyRF5.Jenni -p x -t $(nproc)
 
 echo "Mining started. Press Ctrl+C to stop."
