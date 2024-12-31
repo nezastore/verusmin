@@ -1,9 +1,11 @@
 # verusmin
 
 
-izin
+## izin
 ```chmod +x start-mining.sh```
-gas
+
+
+## gas
 ```./start-mining.sh```
 
 
